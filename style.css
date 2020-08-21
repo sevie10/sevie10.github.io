@@ -146,7 +146,7 @@ img {
 .services .content .servicesBx img{
   width: 140px;
   height: 140px;
-  filter: invert(1);
+  /*filter: invert(1);*/
 }
 .services .content .servicesBx h2{
   font-size: 20px;
