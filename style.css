@@ -260,6 +260,33 @@ img {
   align-items: flex-start;
   font-size: 24px;
 }
+.contactInfoBx .box .icon .location {
+  display: block;
+  width: 20px;
+  height: 20px;
+  filter: invert(1);
+  background: url(images/map-marker-alt-solid.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.contactInfoBx .box .icon .email {
+  display: block;
+  width: 20px;
+  height: 20px;
+  filter: invert(1);
+  background: url(images/envelope-regular.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.contactInfoBx .box .icon .social {
+  display: block;
+  width: 20px;
+  height: 20px;
+  filter: invert(1);
+  background: url(images/user-friends-solid.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
 .contactInfoBx .box .text {
   display: flex;
   margin-left: 20px;
