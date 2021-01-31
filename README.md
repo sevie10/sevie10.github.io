@@ -1,3 +1,3 @@
 # sevie10.github.io
-My personal website
-test commit
+
+My Online Portfolio source code using only HTML, CSS and JavaScript
