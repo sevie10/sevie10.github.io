@@ -534,6 +534,10 @@ body {
   color: white;
   border-radius: 10px;
   margin-bottom: 20px;
+  transition: 0.5s;
+}
+.timeline ul li:hover {
+  background-color: #2196f3;
 }
 .timeline ul li:last-child {
   margin-bottom: 0;
@@ -605,7 +609,7 @@ body {
     top: -30px;
   }
   .timeline ul li:hover::before {
-    background-color: aqua;
+    background-color: #2196f3;
   }
 }
 
